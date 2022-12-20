@@ -1,0 +1,5 @@
+-- Closure Method
+-- Yeh method hamain Candidate keys ko find krne main madad deta hai 
+-- Candiate key -> wo key jo uniquely tupples ko identify krne main help kre
+-- Candidate Key -> aik aisi key hai jisse ap tamaamtar attributes ko determine krskte hain
+-- > Candidate key minimal hoti hai!

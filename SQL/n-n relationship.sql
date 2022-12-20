@@ -1,4 +1,9 @@
 -- Implementation of referential relations in SQL 
+-- key points!
+-- 1-M -> 2 tables (A,RB)
+-- M-1 -> 2 tables (RA,B)
+-- 1-1 -> 2 tables (RA,B) or (A,RB)
+-- M-M -> 3 Tables (A,B,R) 
 
 -- One to One 
 create database Customer;
