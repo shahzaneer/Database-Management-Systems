@@ -1,4 +1,5 @@
 -- where clause is used to provide a check on the selection query 
+-- where rows ko select krta hai
 select * from worker where worker_id = 1;
 
 select * from worker where salary >2000;

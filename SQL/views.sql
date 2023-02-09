@@ -2,7 +2,7 @@ use ravicom;
 
 select * from employee; -- emp_id , emp_name , emp_address
 -- is table main teen columns hain jo harddisk main actually kahein na kahein stored hain
--- DBMS main hum vies banaskte hain jo mukhtalif users k liay in tables k different views generate krte hain
+-- DBMS main hum views banaskte hain jo mukhtalif users k liay in tables k different views generate krte hain
 -- yehi abstraction bhi kehlaati hai 
 
 
